@@ -101,13 +101,13 @@
     {
       "id": "cataluna",
       "name": "Cataluña",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "cataluna-2026.json",
+      "page_url": "https://canalsalut.gencat.cat/ca/salut-a-z/v/vacunacions/calendari/",
+      "source_url": "https://canalsalut.gencat.cat/web/.content/_A-Z/V/vacunacions/documents/calendari_vacunacions.pdf",
+      "source_hash": "ebbfa61c360a40903481b2bddf4e503348efa0aaa58e0ce75a4778b6b5bbe74f",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "comunitat-valenciana",
