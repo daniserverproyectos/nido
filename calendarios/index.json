@@ -215,14 +215,13 @@
     {
       "id": "melilla",
       "name": "Melilla (INGESA)",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null,
-      "note": "INGESA no publica calendario propio: usa el calendario común del Ministerio (pendiente de confirmar con INGESA)."
+      "status": "publicado",
+      "file": "melilla-2026.json",
+      "page_url": "https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fdes_d4_v1.jsp&contenido=32611&nivel=1400&tipo=6&anuncio=1",
+      "source_url": "https://bomemelilla.es/bome/descargar/BOME-A-2025-1322.pdf",
+      "source_hash": "1fb6085779fbe34134777b967367720eee42b7059cb7230a591161fbbef31851",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     }
   ]
 }
