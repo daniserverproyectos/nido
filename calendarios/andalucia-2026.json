@@ -1,0 +1,221 @@
+{
+  "community": "Andalucía",
+  "title": "Calendario sistemático de vacunaciones e inmunizaciones 2026",
+  "reviewed_on": "2026-11-19",
+  "valid_until": "2026-12-31",
+  "source_url": "https://www.andavac.es/wp-content/uploads/calendario/Calendario-Vacunaciones-2026-Andalucia-leyenda.pdf",
+  "page_url": "https://www.andavac.es/calendario-vacunaciones/",
+  "groups": [
+    {
+      "key": "2m",
+      "label": "2 meses",
+      "age_months": 2,
+      "doses": [
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo VNC20 (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "4m",
+      "label": "4 meses",
+      "age_months": 4,
+      "doses": [
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo VNC20 (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY (1.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "6m",
+      "label": "6 meses",
+      "age_months": 6,
+      "doses": [
+        {
+          "key": "vnc-3",
+          "name": "Neumococo VNC20 (3.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "11m",
+      "label": "11 meses",
+      "age_months": 11,
+      "doses": [
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-4",
+          "name": "Neumococo VNC20 (recuerdo)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "12m",
+      "label": "12 meses",
+      "age_months": 12,
+      "doses": [
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        },
+        {
+          "key": "menacwy-2",
+          "name": "Meningococo ACWY (2.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        }
+      ]
+    },
+    {
+      "key": "15m",
+      "label": "15 meses",
+      "age_months": 15,
+      "doses": [
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        },
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B"
+        }
+      ]
+    },
+    {
+      "key": "2y",
+      "label": "2 años",
+      "age_months": 24,
+      "doses": [
+        {
+          "key": "tv-2",
+          "name": "Triple vírica (2.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis",
+          "note": "Desde 2026 se pone a los 2 años; durante 2026 también a los niños de 3 años."
+        },
+        {
+          "key": "vvz-2",
+          "name": "Varicela (2.ª dosis)",
+          "protects": "Varicela",
+          "note": "Desde 2026 se pone a los 2 años; durante 2026 también a los niños de 3 años."
+        }
+      ]
+    },
+    {
+      "key": "6y",
+      "label": "6 años",
+      "age_months": 72,
+      "doses": [
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio",
+          "note": "Los nacidos antes de 2017 que no la recibieron: Tdpa sin polio."
+        }
+      ]
+    },
+    {
+      "key": "12y",
+      "label": "12 años",
+      "age_months": 144,
+      "doses": [
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano (dosis única)",
+          "protects": "Virus del papiloma humano"
+        },
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Solo si no ha recibido MenACWY desde los 10 años."
+        }
+      ]
+    },
+    {
+      "key": "14y",
+      "label": "14 años",
+      "age_months": 168,
+      "doses": [
+        {
+          "key": "tdpa-1",
+          "name": "Tdpa (recuerdo)",
+          "protects": "Tétanos, difteria y tosferina",
+          "note": "Si no ha recibido Tdpa desde los 10 años."
+        }
+      ]
+    }
+  ],
+  "seasonal": [
+    {
+      "key": "vrs-2026-2027",
+      "name": "VRS, temporada 2026-2027",
+      "protects": "Virus respiratorio sincitial (anticuerpo, no vacuna)",
+      "born_from": "2026-04-01",
+      "visible_until": "2027-03-31",
+      "note": "Nacidos del 1 de abril al 30 de septiembre de 2026: desde la última semana de septiembre. Nacidos del 1 de octubre al 31 de marzo: lo antes posible tras nacer."
+    },
+    {
+      "key": "gripe-2026-2027",
+      "name": "Gripe, campaña 2026-2027",
+      "protects": "Gripe",
+      "min_age_months": 6,
+      "max_age_months": 59,
+      "visible_until": "2027-01-31",
+      "note": "Una dosis en la campaña para niños de 6 a 59 meses. En 2026-2027 empieza el 1 de octubre."
+    }
+  ],
+  "notes": [
+    "Calendario para niños sin factores de riesgo; los grupos de riesgo tienen pautas propias.",
+    "Hijos de madre portadora de AgHBs o con serología desconocida: hepatitis B en las primeras 24 horas de vida.",
+    "Si faltan dosis, el centro de salud aplica el calendario acelerado oficial.",
+    "VPH: rescate con una dosis de 13 a 21 años para quien no tenga ninguna.",
+    "Triple vírica y varicela: rescate a los 12 años para quien no esté vacunado."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "updated_on": "2026-11-19",
+  "common": {
+    "name": "Calendario común del Consejo Interterritorial del SNS 2026",
+    "source_url": "https://www.sanidad.gob.es/areas/promocionPrevencion/vacunaciones/calendario/docs/CalendarioVacunacion_Todalavida.pdf",
+    "page_url": "https://www.sanidad.gob.es/areas/promocionPrevencion/vacunaciones/calendario/home.htm",
+    "source_hash": "03b2d265b9892d4809c576dd207000f21c6be1bef2a3713d9700b08b641d4f76",
+    "approved_on": "2025-12-12"
+  },
+  "note": "Calendarios oficiales pasados al formato de Nido. Fuente y fecha de revisión en cada uno. No sustituyen al consejo de vuestro pediatra.",
+  "communities": [
+    {
+      "id": "andalucia",
+      "name": "Andalucía",
+      "status": "publicado",
+      "file": "andalucia-2026.json",
+      "page_url": "https://www.andavac.es/calendario-vacunaciones/",
+      "source_url": "https://www.andavac.es/wp-content/uploads/calendario/Calendario-Vacunaciones-2026-Andalucia-leyenda.pdf",
+      "source_hash": "4a543b180e74fed6ee730c902de4792c823c7696ed8b41dc8e1bd40533c4cc3f",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
+    },
+    {
+      "id": "aragon",
+      "name": "Aragón",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "asturias",
+      "name": "Principado de Asturias",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "baleares",
+      "name": "Illes Balears",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "canarias",
+      "name": "Canarias",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "cantabria",
+      "name": "Cantabria",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "castilla-la-mancha",
+      "name": "Castilla-La Mancha",
+      "status": "publicado",
+      "file": "castilla-la-mancha-2026.json",
+      "page_url": "https://sanidad.castillalamancha.es",
+      "source_url": "https://sanidad.castillalamancha.es/sites/sescam.castillalamancha.es/files/documentos/pdf/20260107/20251230_documento_tecnico_calendario_sistematico_2026.pdf",
+      "source_hash": "2c3b677943ccb73bc002b00948a0e7ce15b4a80906f2211cacb64f2419026402",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
+    },
+    {
+      "id": "castilla-y-leon",
+      "name": "Castilla y León",
+      "status": "publicado",
+      "file": "castilla-y-leon-2026.json",
+      "page_url": "https://www.saludcastillayleon.es/es/vacunaciones",
+      "source_url": "https://www.saludcastillayleon.es/profesionales/es/vacunaciones/nuevo-calendario-vacunaciones-inmunizaciones-toda-vida-cast.ficheros/3261828-calendario%20vacunal%20(Portal)%202026.pdf",
+      "source_hash": "42680fdfe7cc4f6f7b56b567154a6f17a37f1369076a75e2f134ffa6e42041b1",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
+    },
+    {
+      "id": "cataluna",
+      "name": "Cataluña",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "comunitat-valenciana",
+      "name": "Comunitat Valenciana",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "extremadura",
+      "name": "Extremadura",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "galicia",
+      "name": "Galicia",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "madrid",
+      "name": "Comunidad de Madrid",
+      "status": "publicado",
+      "file": "madrid-2026.json",
+      "page_url": "https://www.comunidad.madrid/salud/vacunas",
+      "source_url": "https://gestiona3.madrid.org/bvirtual/BVCM051768.pdf",
+      "source_hash": null,
+      "reviewed_on": "2026-11-06",
+      "valid_until": "2026-12-31"
+    },
+    {
+      "id": "murcia",
+      "name": "Región de Murcia",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "navarra",
+      "name": "Comunidad Foral de Navarra",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "pais-vasco",
+      "name": "País Vasco",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "la-rioja",
+      "name": "La Rioja",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "ceuta",
+      "name": "Ceuta (INGESA)",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    },
+    {
+      "id": "melilla",
+      "name": "Melilla (INGESA)",
+      "status": "pendiente",
+      "file": null,
+      "page_url": null,
+      "source_url": null,
+      "source_hash": null,
+      "reviewed_on": null,
+      "valid_until": null
+    }
+  ]
+}
