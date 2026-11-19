@@ -70,12 +70,12 @@
       "name": "Cantabria",
       "status": "pendiente",
       "file": null,
-      "page_url": null,
+      "page_url": "https://www.scsalud.es/portal-de-vacunacion",
       "source_url": null,
       "source_hash": null,
       "reviewed_on": null,
       "valid_until": null,
-      "note": "No hay calendario infantil de 2026 publicado en scsalud.es (solo la instrucción de VPH 2026 y una versión interactiva en Genially)."
+      "note": "No hay calendario infantil completo de 2026 publicado. Confirmado en instrucciones del SCS: neumococo VNC20 a los 2, 4, 6 y 11 meses; rotavirus (RotaTeq) a los 2, 4 y 6 meses para nacidos desde 1/1/2025; MenB a los 2, 4 y 12 meses para nacidos desde 1/1/2023; VPH 1 dosis; gripe infantil 2026-2027 y nirsevimab 2026-2027 en sus protocolos. Falta fuente oficial de hexavalente, MenACWY, triple vírica, varicela y recuerdos."
     },
     {
       "id": "castilla-la-mancha",
