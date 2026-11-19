@@ -149,8 +149,8 @@
       "file": "madrid-2026.json",
       "page_url": "https://www.comunidad.madrid/salud/vacunas",
       "source_url": "https://gestiona3.madrid.org/bvirtual/BVCM051768.pdf",
-      "source_hash": null,
-      "reviewed_on": "2026-11-06",
+      "source_hash": "1ac8fac1edc6d7ddcbfdf8d3f0900e42fbeda0aeb024d88ccb3204e136e90211",
+      "reviewed_on": "2026-11-19",
       "valid_until": "2026-12-31"
     },
     {

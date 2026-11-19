@@ -1,7 +1,7 @@
 {
   "community": "Comunidad de Madrid",
   "title": "Calendario de vacunación e inmunización 2026",
-  "reviewed_on": "2026-11-06",
+  "reviewed_on": "2026-11-19",
   "valid_until": "2026-12-31",
   "source_url": "https://gestiona3.madrid.org/bvirtual/BVCM051768.pdf",
   "page_url": "https://www.comunidad.madrid/salud/vacunas",
@@ -11,10 +11,28 @@
       "label": "2 meses",
       "age_months": 2,
       "doses": [
-        { "key": "hexa-1", "name": "Hexavalente (1.ª dosis)", "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B" },
-        { "key": "vnc-1", "name": "Neumococo (1.ª dosis)", "protects": "Neumococo" },
-        { "key": "menb-1", "name": "Meningococo B (1.ª dosis)", "protects": "Meningococo B", "born_from": "2022-11-01" },
-        { "key": "rv-1", "name": "Rotavirus (1.ª dosis)", "protects": "Rotavirus", "born_from": "2024-08-01" }
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B",
+          "born_from": "2022-11-01"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus",
+          "born_from": "2024-08-01"
+        }
       ]
     },
     {
@@ -22,11 +40,33 @@
       "label": "4 meses",
       "age_months": 4,
       "doses": [
-        { "key": "hexa-2", "name": "Hexavalente (2.ª dosis)", "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B" },
-        { "key": "vnc-2", "name": "Neumococo (2.ª dosis)", "protects": "Neumococo" },
-        { "key": "menb-2", "name": "Meningococo B (2.ª dosis)", "protects": "Meningococo B", "born_from": "2022-11-01" },
-        { "key": "menc-1", "name": "Meningococo C", "protects": "Meningococo C" },
-        { "key": "rv-2", "name": "Rotavirus (2.ª dosis)", "protects": "Rotavirus", "born_from": "2024-08-01" }
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B",
+          "born_from": "2022-11-01"
+        },
+        {
+          "key": "menc-1",
+          "name": "Meningococo C",
+          "protects": "Meningococo C"
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus",
+          "born_from": "2024-08-01"
+        }
       ]
     },
     {
@@ -34,8 +74,16 @@
       "label": "11 meses",
       "age_months": 11,
       "doses": [
-        { "key": "hexa-3", "name": "Hexavalente (3.ª dosis)", "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B" },
-        { "key": "vnc-3", "name": "Neumococo (3.ª dosis)", "protects": "Neumococo" }
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-3",
+          "name": "Neumococo (3.ª dosis)",
+          "protects": "Neumococo"
+        }
       ]
     },
     {
@@ -43,9 +91,23 @@
       "label": "12 meses",
       "age_months": 12,
       "doses": [
-        { "key": "menb-3", "name": "Meningococo B (3.ª dosis)", "protects": "Meningococo B", "born_from": "2022-11-01" },
-        { "key": "menacwy-1", "name": "Meningococo ACWY", "protects": "Meningococos A, C, W e Y", "note": "Desde el 1 de enero de 2026 sustituye a la dosis de meningococo C de los 12 meses. Quien ya recibió MenC a partir de los 12 meses se considera bien vacunado." },
-        { "key": "tv-1", "name": "Triple vírica (1.ª dosis)", "protects": "Sarampión, rubeola y parotiditis" }
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B",
+          "born_from": "2022-11-01"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Desde el 1 de enero de 2026 sustituye a la dosis de meningococo C de los 12 meses. Quien ya recibió MenC a partir de los 12 meses se considera bien vacunado."
+        },
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        }
       ]
     },
     {
@@ -53,7 +115,11 @@
       "label": "15 meses",
       "age_months": 15,
       "doses": [
-        { "key": "vvz-1", "name": "Varicela (1.ª dosis)", "protects": "Varicela" }
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        }
       ]
     },
     {
@@ -61,7 +127,11 @@
       "label": "3 años",
       "age_months": 36,
       "doses": [
-        { "key": "srpv-1", "name": "Tetravírica", "protects": "Sarampión, rubeola, parotiditis y varicela (2.ª dosis)" }
+        {
+          "key": "srpv-1",
+          "name": "Tetravírica",
+          "protects": "Sarampión, rubeola, parotiditis y varicela (2.ª dosis)"
+        }
       ]
     },
     {
@@ -69,7 +139,44 @@
       "label": "6 años",
       "age_months": 72,
       "doses": [
-        { "key": "dtpa-vpi-1", "name": "DTPa-VPI (recuerdo)", "protects": "Difteria, tétanos, tosferina y polio", "born_from": "2016-07-01" }
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio",
+          "born_from": "2016-07-01"
+        }
+      ]
+    },
+    {
+      "key": "12y",
+      "label": "12 años",
+      "age_months": 144,
+      "doses": [
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano (dosis única)",
+          "protects": "Virus del papiloma humano",
+          "note": "Niñas y niños. Captación de no vacunados hasta los 18 años."
+        },
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Rescate hasta los 18 años si no tiene ninguna dosis desde los 10 años."
+        }
+      ]
+    },
+    {
+      "key": "14y",
+      "label": "14 años",
+      "age_months": 168,
+      "doses": [
+        {
+          "key": "dtpa-14",
+          "name": "dTpa (recuerdo)",
+          "protects": "Tétanos, difteria y tosferina",
+          "note": "Desde el 1 de enero de 2025 sustituye a la Td de los 14 años."
+        }
       ]
     }
   ],
@@ -97,5 +204,28 @@
     "Hijos de madre portadora de AgHBs o con serología desconocida: hepatitis B en las primeras 24 horas de vida.",
     "Los prematuros se vacunan según su edad, como los demás niños, salvo indicación de su pediatra.",
     "Si faltan dosis, el centro de salud aplica el calendario acelerado oficial."
+  ],
+  "sources": [
+    {
+      "title": "Calendario de vacunación/inmunización a lo largo de toda la vida 2026 (gráfico)",
+      "url": "https://gestiona3.madrid.org/bvirtual/BVCM051768.pdf",
+      "sha256": "1ac8fac1edc6d7ddcbfdf8d3f0900e42fbeda0aeb024d88ccb3204e136e90211",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades y vacunas"
+    },
+    {
+      "title": "Calendario de vacunación e inmunización para toda la vida 2026 (documento técnico)",
+      "url": "https://gestiona3.madrid.org/bvirtual/BVCM051747.pdf",
+      "sha256": "d1cf2645f38034fbc6772123a914e970d1454231ad18a01d6442d879bf00701d",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Pautas: neumococo VNC15 2+1, MenACWY, tetravírica a los 3 años, VPH, dTpa a los 14"
+    },
+    {
+      "title": "Nota informativa del calendario 2026 (22/12/2025)",
+      "url": "https://www.comunidad.madrid/docs/assets/2026/01/22/nota_informativa_calendario_2026_22.12.25.pdf",
+      "sha256": "e366c6a6fdc30d11ec29b3ad2fe22e3a3d20d9c231ce1bc14dbf68a08ad0a70b",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Novedades de 2026"
+    }
   ]
 }

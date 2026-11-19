@@ -215,5 +215,14 @@
     "Si faltan dosis, el centro de salud aplica el calendario acelerado oficial.",
     "Varicela a los 12 años: captación de quien no haya pasado la enfermedad ni tenga 2 dosis.",
     "VPH: rescate con una dosis de 13 a 22 años para quien no tenga ninguna."
+  ],
+  "sources": [
+    {
+      "title": "Calendario de vacunaciones e inmunizaciones a lo largo de toda la vida en Castilla-La Mancha 2026 (documento técnico)",
+      "url": "https://sanidad.castillalamancha.es/sites/sescam.castillalamancha.es/files/documentos/pdf/20260107/20251230_documento_tecnico_calendario_sistematico_2026.pdf",
+      "sha256": "2c3b677943ccb73bc002b00948a0e7ce15b4a80906f2211cacb64f2419026402",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla 1 y apartado 5 (0-17 años)"
+    }
   ]
 }

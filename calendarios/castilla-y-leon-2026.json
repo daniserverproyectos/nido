@@ -216,7 +216,7 @@
       "min_age_months": 6,
       "max_age_months": 143,
       "visible_until": "2027-01-31",
-      "note": "Una dosis en la campaña. En 2026 se amplía hasta los 11 años con vacuna intranasal. Fechas en la instrucción de la campaña de Castilla y León."
+      "note": "Una dosis en cada campaña, de 6 meses a 11 años inclusive (de preferencia, vacuna intranasal). Fechas en la instrucción de la campaña de Castilla y León."
     }
   ],
   "notes": [
@@ -225,5 +225,28 @@
     "Si faltan dosis, el centro de salud aplica el calendario acelerado oficial.",
     "Varicela a los 12 años solo si no ha pasado la enfermedad ni está vacunado.",
     "VPH: captación de varones no vacunados hasta los 25 años."
+  ],
+  "sources": [
+    {
+      "title": "Calendario de vacunaciones e inmunizaciones para toda la vida, Castilla y León 2026 (Orden SAN/209/2026)",
+      "url": "https://www.saludcastillayleon.es/profesionales/es/vacunaciones/nuevo-calendario-vacunaciones-inmunizaciones-toda-vida-cast.ficheros/3261828-calendario%20vacunal%20(Portal)%202026.pdf",
+      "sha256": "42680fdfe7cc4f6f7b56b567154a6f17a37f1369076a75e2f134ffa6e42041b1",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades y notas 1 a 11"
+    },
+    {
+      "title": "Orden SAN/209/2026, de 3 de marzo (BOCyL n.º 45, 6/3/2026)",
+      "url": "https://www.saludcastillayleon.es/profesionales/es/vacunaciones/calendario-vacunaciones-inmunizaciones-toda-vida-cas-17a609.ficheros/3261827-BOCYL-D-06032026-45-18.pdf",
+      "sha256": "a00a666b47384971670e3dde79df23b854e6b3b386c0de9bc38976c52fd04dac",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Gripe hasta los 11 años inclusive; entrada en vigor el 1 de abril de 2026"
+    },
+    {
+      "title": "Instrucción técnica de actualización del calendario de vacunaciones 2026 (rev. 2)",
+      "url": "https://www.saludcastillayleon.es/profesionales/es/vacunaciones/nuevo-calendario-vacunaciones-inmunizaciones-toda-vida-cast.ficheros/3430393-Instrucci%C3%B3n%20t%C3%A9cnica%20actualziaci%C3%B3n%20calendario%20vacunaciones%202026_20260330_rev2.pdf",
+      "sha256": "92f7f17870e6ebd24258ff065258423dde0df2b2774515296f5d68c113c1fe47",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Detalle de las novedades de 2026"
+    }
   ]
 }

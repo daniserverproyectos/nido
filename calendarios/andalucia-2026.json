@@ -217,5 +217,21 @@
     "Si faltan dosis, el centro de salud aplica el calendario acelerado oficial.",
     "VPH: rescate con una dosis de 13 a 21 años para quien no tenga ninguna.",
     "Triple vírica y varicela: rescate a los 12 años para quien no esté vacunado."
+  ],
+  "sources": [
+    {
+      "title": "Calendario sistemático de vacunaciones e inmunizaciones Andalucía 2026 (con leyenda)",
+      "url": "https://www.andavac.es/wp-content/uploads/calendario/Calendario-Vacunaciones-2026-Andalucia-leyenda.pdf",
+      "sha256": "4a543b180e74fed6ee730c902de4792c823c7696ed8b41dc8e1bd40533c4cc3f",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades y notas 1 a 24"
+    },
+    {
+      "title": "Instrucción DGSPyOF-1/2026 del calendario de vacunación de Andalucía (cambios resaltados)",
+      "url": "https://www.andavac.es/wp-content/uploads/instrucciones/Instruccion_Calendario_Vacunacion_Andalucia_cambios_resaltados.pdf",
+      "sha256": "c3e1cae76cfccea4351be914ac46c362c24196f881f8ee8902a870783266b1f3",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Instrucción oficial de la Consejería"
+    }
   ]
 }
