@@ -35,13 +35,13 @@
     {
       "id": "asturias",
       "name": "Principado de Asturias",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "asturias-2026.json",
+      "page_url": "https://www.astursalud.es/noticias/-/noticias/calendario-de-vacunacion-del-principado-de-asturias-2025",
+      "source_url": "https://www.astursalud.es/documents/35439/39153/Calendario+Vacunaci%C3%B3n+infantil..pdf/108a2eed-927e-ea11-4ec3-f9f8e5fa42f8",
+      "source_hash": "1d1a1f88459e7ba8718d13d33ff4d06fab413fa3b8d9ba7c39289cb68102dd46",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "baleares",
