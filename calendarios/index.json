@@ -134,13 +134,13 @@
     {
       "id": "galicia",
       "name": "Galicia",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "galicia-2026.json",
+      "page_url": "https://www.sergas.es/Saude-publica/PGV",
+      "source_url": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/SaludPublica/PDF-3364-es.pdf",
+      "source_hash": "cd2695b8c92359318fea1fa57bf792bbd10b6bf632cf093d2bee2c07c6e32b43",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "madrid",
