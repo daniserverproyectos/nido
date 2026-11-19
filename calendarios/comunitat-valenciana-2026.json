@@ -1,0 +1,243 @@
+{
+  "community": "Comunitat Valenciana",
+  "title": "Calendario de vacunaciones sistemáticas a lo largo de la vida 2026 (actualización de octubre de 2026)",
+  "reviewed_on": "2026-11-19",
+  "valid_until": "2026-12-31",
+  "source_url": "https://vacunaciones.san.gva.es/documents/10278959/22043450/def+OCTUBRE+2026+CALENDARIO_VACUNACION_2026_CAST.pdf/ae66a961-a332-76fc-0279-4366b709df00",
+  "page_url": "https://vacunaciones.san.gva.es/es/calendario-vacunaciones",
+  "groups": [
+    {
+      "key": "2m",
+      "label": "2 meses",
+      "age_months": 2,
+      "doses": [
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo 20-valente (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus",
+          "note": "Vacuna oral. Según la vacuna, 2 dosis (2 y 4 meses) o 3 (2, 4 y 6 meses)."
+        }
+      ]
+    },
+    {
+      "key": "4m",
+      "label": "4 meses",
+      "age_months": 4,
+      "doses": [
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo 20-valente (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY (1.ª dosis)",
+          "protects": "Meningococos A, C, W e Y",
+          "born_from": "2026-01-01",
+          "note": "Desde el 1 de abril de 2026 sustituye a la vacuna de meningococo C."
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "6m",
+      "label": "6 meses",
+      "age_months": 6,
+      "doses": [
+        {
+          "key": "vnc-3",
+          "name": "Neumococo 20-valente (3.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "rv-3",
+          "name": "Rotavirus (3.ª dosis, solo si la vacuna es de 3 dosis)",
+          "protects": "Rotavirus",
+          "note": "Solo con la vacuna de 3 dosis; el centro de salud lo indica."
+        }
+      ]
+    },
+    {
+      "key": "11m",
+      "label": "11 meses",
+      "age_months": 11,
+      "doses": [
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-4",
+          "name": "Neumococo 20-valente (4.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "12m",
+      "label": "12 meses",
+      "age_months": 12,
+      "doses": [
+        {
+          "key": "menacwy-2",
+          "name": "Meningococo ACWY (2.ª dosis)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Desde el 1 de abril de 2026 sustituye a la vacuna de meningococo C."
+        },
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        }
+      ]
+    },
+    {
+      "key": "15m",
+      "label": "15 meses",
+      "age_months": 15,
+      "doses": [
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "2y",
+      "label": "2-4 años",
+      "age_months": 24,
+      "doses": [
+        {
+          "key": "srpv-1",
+          "name": "Tetravírica (2.ª dosis de triple vírica y varicela)",
+          "protects": "Sarampión, rubeola, parotiditis y varicela",
+          "note": "Se puede poner entre los 2 y los 4 años."
+        }
+      ]
+    },
+    {
+      "key": "5y",
+      "label": "5-6 años",
+      "age_months": 60,
+      "doses": [
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio"
+        }
+      ]
+    },
+    {
+      "key": "12y",
+      "label": "12 años",
+      "age_months": 144,
+      "doses": [
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano (dosis única)",
+          "protects": "Virus del papiloma humano"
+        },
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Captación hasta los 18 años."
+        },
+        {
+          "key": "menb-ado",
+          "name": "Meningococo B (refuerzo)",
+          "protects": "Meningococo B",
+          "note": "Para quien se vacunó de pequeño; si no, el centro de salud indica la pauta. Novedad de octubre de 2026."
+        }
+      ]
+    },
+    {
+      "key": "14y",
+      "label": "14 años",
+      "age_months": 168,
+      "doses": [
+        {
+          "key": "td-1",
+          "name": "Td (recuerdo)",
+          "protects": "Tétanos y difteria"
+        }
+      ]
+    }
+  ],
+  "seasonal": [
+    {
+      "key": "gripe-2026-2027",
+      "name": "Gripe, campaña 2026-2027",
+      "protects": "Gripe",
+      "min_age_months": 6,
+      "max_age_months": 71,
+      "visible_until": "2027-01-31",
+      "note": "Una dosis por temporada de 6 a 71 meses: inyectada de 6 a 23 meses y, de preferencia, intranasal de 24 a 71 meses."
+    }
+  ],
+  "notes": [
+    "Calendario para niños sin factores de riesgo; los grupos de riesgo tienen pautas propias.",
+    "VRS: los lactantes reciben el anticuerpo frente al VRS según la pauta de cada temporada (ver la campaña de otoño-invierno de la Conselleria).",
+    "VPH: captación de chicos nacidos entre 2001 y 2010 y rescate de chicas no vacunadas, hasta los 25 años.",
+    "Si faltan dosis, el centro de salud aplica el calendario de rescate oficial."
+  ],
+  "sources": [
+    {
+      "title": "Calendario recomendado 2026 de la Comunitat Valenciana (versión de octubre de 2026)",
+      "url": "https://vacunaciones.san.gva.es/documents/10278959/22043450/def+OCTUBRE+2026+CALENDARIO_VACUNACION_2026_CAST.pdf/ae66a961-a332-76fc-0279-4366b709df00",
+      "sha256": "75da8723271a3d23fd483f97ba928ed7351ab765e9a772a3cbe4c26b82dc499a",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades y notas 1 a 12"
+    },
+    {
+      "title": "Resolución de 13 de marzo de 2026 (DOGV n.º 10328, 24/3/2026)",
+      "url": "https://dogv.gva.es/datos/2026/03/24/pdf/2026_8802_es.pdf",
+      "sha256": "8334d719c7a14e35eab1355313374b8a6e8b443d019e12f700361a38eef88386",
+      "downloaded_on": "2026-11-19",
+      "used_for": "MenACWY a los 4 y 12 meses desde el 1/4/2026, tetravírica de 2 a 4 años, gripe hasta 71 meses"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026 (DOGV)",
+      "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2026/31964",
+      "sha256": null,
+      "downloaded_on": "2026-11-19",
+      "used_for": "Actualización de octubre (MenB a los 12 años); recogida en el calendario de octubre"
+    }
+  ]
+}

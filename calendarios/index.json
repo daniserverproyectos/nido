@@ -112,13 +112,13 @@
     {
       "id": "comunitat-valenciana",
       "name": "Comunitat Valenciana",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "comunitat-valenciana-2026.json",
+      "page_url": "https://vacunaciones.san.gva.es/es/calendario-vacunaciones",
+      "source_url": "https://vacunaciones.san.gva.es/documents/10278959/22043450/def+OCTUBRE+2026+CALENDARIO_VACUNACION_2026_CAST.pdf/ae66a961-a332-76fc-0279-4366b709df00",
+      "source_hash": "75da8723271a3d23fd483f97ba928ed7351ab765e9a772a3cbe4c26b82dc499a",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "extremadura",
