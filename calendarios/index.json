@@ -167,13 +167,13 @@
     {
       "id": "navarra",
       "name": "Comunidad Foral de Navarra",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "navarra-2026.json",
+      "page_url": "https://portalsalud.navarra.es/",
+      "source_url": "https://portalsalud.navarra.es/documents/11746728/58599564/2026-03.+Calendario+de+vacunaciones+Navarra+2026.+Tabla+Resumen+(1).pdf/72193058-b02a-04c9-1587-c995b1ca730c",
+      "source_hash": "ceab11d3016491fbc47b75bc888281892e94e01883912a5066233c772b3f5787",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "pais-vasco",
