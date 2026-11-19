@@ -24,13 +24,13 @@
     {
       "id": "aragon",
       "name": "Aragón",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "aragon-2026.json",
+      "page_url": "https://www.aragon.es/-/calendario-infantil-unificado-de-vacunaciones",
+      "source_url": "https://www.aragon.es/documents/d/guest/calendario-mano-infantil-2024-pdf",
+      "source_hash": "183dbc9cd3b679fe4c21a4927967e0205c2981b67a392e6f450ebd0019d7f33b",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "asturias",
