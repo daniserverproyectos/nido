@@ -157,14 +157,14 @@
     {
       "id": "murcia",
       "name": "Región de Murcia",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
+      "status": "publicado",
+      "file": "murcia-2026.json",
+      "page_url": "https://www.murciasalud.es/en/web/vacunacion/murcia",
+      "source_url": "https://www.murciasalud.es/documents/d/vacunacion/calendario-vacunal-2026-final",
       "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null,
-      "note": "Orden de 21/9/2026 (BORM n.º 225, 29/9/2026). murciasalud.es y borm.es piden captcha: Dani debe bajar el PDF «calendario-vacunal-2026-final» desde el PC."
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31",
+      "note": "Sin huella del PDF (captcha). Si Dani baja el PDF por Samba, se guarda la huella y se comprueba."
     },
     {
       "id": "navarra",
