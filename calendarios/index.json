@@ -46,13 +46,13 @@
     {
       "id": "baleares",
       "name": "Illes Balears",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "baleares-2026.json",
+      "page_url": "https://www.caib.es/sites/vacunacions/es/calendario_sistematico_vacunacion_inuminzacions_largo_toda_vida/",
+      "source_url": "https://www.caib.es/sites/vacunacions/f/495018",
+      "source_hash": "dfa372dc56551b94d746cfa02b1c64dff32d498f7ce68506f840cef2f8d6adde",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "canarias",
