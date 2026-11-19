@@ -1,0 +1,236 @@
+{
+  "community": "Canarias",
+  "title": "Calendario de Inmunizaciones para todas las edades de la vida en la Comunidad Autónoma de Canarias 2026 (Orden de 22 de junio de 2026)",
+  "reviewed_on": "2026-11-19",
+  "valid_until": "2026-12-31",
+  "source_url": "https://www3.gobiernodecanarias.org/sanidad/scs/content/4c7e405f-802a-11f1-8554-df85e6ebb368/CalendarioInmunizacion.pdf",
+  "page_url": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idCarpeta=fd4cc535-588f-11e1-92c3-9195656fdecf&idDocument=fc7b7e8d-0efd-11de-9de1-998efb13096d",
+  "groups": [
+    {
+      "key": "2m",
+      "label": "2 meses",
+      "age_months": 2,
+      "doses": [
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo 20-valente (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus",
+          "note": "Vacuna oral. Según la vacuna, 2 o 3 dosis; el centro de salud indica la pauta."
+        }
+      ]
+    },
+    {
+      "key": "4m",
+      "label": "4 meses",
+      "age_months": 4,
+      "doses": [
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo 20-valente (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY (1.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "6m",
+      "label": "6 meses",
+      "age_months": 6,
+      "doses": [
+        {
+          "key": "vnc-3",
+          "name": "Neumococo 20-valente (3.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "rv-3",
+          "name": "Rotavirus (3.ª dosis, solo si la vacuna es de 3 dosis)",
+          "protects": "Rotavirus",
+          "note": "Solo con la vacuna de 3 dosis."
+        }
+      ]
+    },
+    {
+      "key": "11m",
+      "label": "11 meses",
+      "age_months": 11,
+      "doses": [
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-4",
+          "name": "Neumococo 20-valente (4.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "12m",
+      "label": "12 meses",
+      "age_months": 12,
+      "doses": [
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "menacwy-2",
+          "name": "Meningococo ACWY (2.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        }
+      ]
+    },
+    {
+      "key": "15m",
+      "label": "15 meses",
+      "age_months": 15,
+      "doses": [
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "3y",
+      "label": "3 años",
+      "age_months": 36,
+      "doses": [
+        {
+          "key": "srpv-1",
+          "name": "Tetravírica (2.ª dosis de triple vírica y varicela)",
+          "protects": "Sarampión, rubeola, parotiditis y varicela"
+        }
+      ]
+    },
+    {
+      "key": "6y",
+      "label": "6 años",
+      "age_months": 72,
+      "doses": [
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio"
+        }
+      ]
+    },
+    {
+      "key": "12y",
+      "label": "12 años",
+      "age_months": 144,
+      "doses": [
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano (dosis única)",
+          "protects": "Virus del papiloma humano",
+          "note": "Ambos sexos. De 13 a 20 años, una dosis si no está vacunado."
+        },
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Si ya recibió MenACWY después de los 10 años, no hace falta. Rescate hasta los 18 años."
+        }
+      ]
+    },
+    {
+      "key": "14y",
+      "label": "14 años",
+      "age_months": 168,
+      "doses": [
+        {
+          "key": "dtpa-14",
+          "name": "Tdpa (recuerdo)",
+          "protects": "Tétanos, difteria y tosferina",
+          "note": "Desde 2026 sustituye a la Td de los 14 años."
+        }
+      ]
+    }
+  ],
+  "seasonal": [
+    {
+      "key": "vrs-2026-2027",
+      "name": "VRS, temporada 2026-2027",
+      "protects": "Virus respiratorio sincitial (anticuerpo, no vacuna)",
+      "born_from": "2026-04-01",
+      "visible_until": "2027-03-31",
+      "note": "Dosis única: nacidos del 1 de abril al 30 de septiembre, al empezar la temporada (1 de octubre); nacidos del 1 de octubre al 31 de marzo, según van naciendo."
+    },
+    {
+      "key": "gripe-2026-2027",
+      "name": "Gripe, campaña 2026-2027",
+      "protects": "Gripe",
+      "min_age_months": 6,
+      "max_age_months": 71,
+      "visible_until": "2027-01-31",
+      "note": "Vacunación de temporada; intranasal desde los 2 años y, de 3 a 5 años, preferentemente en el colegio."
+    }
+  ],
+  "notes": [
+    "Calendario para niños sin factores de riesgo; los grupos de riesgo tienen pautas propias.",
+    "Rescate: neumococo, meningococo B y Hib hasta los 5 años; MenACWY hasta los 18; hepatitis B hasta los 18.",
+    "Hepatitis A (2 dosis) para niños de 12 meses a 18 años que viajen a zonas de riesgo.",
+    "Si faltan dosis, el centro de salud completa la pauta según la edad."
+  ],
+  "sources": [
+    {
+      "title": "Calendario de inmunizaciones para todas las edades de la vida en Canarias 2026 (SCS, 15/7/2026)",
+      "url": "https://www3.gobiernodecanarias.org/sanidad/scs/content/4c7e405f-802a-11f1-8554-df85e6ebb368/CalendarioInmunizacion.pdf",
+      "sha256": "776e11b0600c3f8d224f34eefbf7c969e246745260582958ddaa549125f4dc8c",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades"
+    },
+    {
+      "title": "Orden de 22 de junio de 2026, nuevo Calendario de Inmunizaciones (BOC n.º 140, 14/7/2026)",
+      "url": "https://sede.gobiernodecanarias.org/boc/boc-a-2026-140-2482.pdf",
+      "sha256": "60ca24e15880c9690e814cb822f1a3dda28b9bf2f6506b77613ebf72b2dcefa1",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Novedades (Tdpa a los 14, VPH, VNC20 3+1, MenACWY) y notas 1 a 27"
+    }
+  ]
+}

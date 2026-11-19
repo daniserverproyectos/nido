@@ -57,14 +57,13 @@
     {
       "id": "canarias",
       "name": "Canarias",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null,
-      "note": "Orden de junio de 2026 que aprueba el nuevo calendario de inmunizaciones; no se ha encontrado el PDF oficial en la web del SCS."
+      "status": "publicado",
+      "file": "canarias-2026.json",
+      "page_url": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idCarpeta=fd4cc535-588f-11e1-92c3-9195656fdecf&idDocument=fc7b7e8d-0efd-11de-9de1-998efb13096d",
+      "source_url": "https://www3.gobiernodecanarias.org/sanidad/scs/content/4c7e405f-802a-11f1-8554-df85e6ebb368/CalendarioInmunizacion.pdf",
+      "source_hash": "776e11b0600c3f8d224f34eefbf7c969e246745260582958ddaa549125f4dc8c",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "cantabria",
