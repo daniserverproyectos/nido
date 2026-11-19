@@ -203,14 +203,14 @@
     {
       "id": "ceuta",
       "name": "Ceuta (INGESA)",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
+      "status": "publicado",
+      "file": "ceuta-2026.json",
+      "page_url": "https://www.ceuta.es/",
+      "source_url": "https://noticias.juridicas.com/base_datos/CCAA/943321-d-sanidad-y-servicios-sociales-19-dic-2024-ceuta-nuevo-calendario-de-vacunaciones.html",
       "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null,
-      "note": "INGESA no publica calendario propio: usa el calendario común del Ministerio (pendiente de confirmar con INGESA)."
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31",
+      "note": "Calendario de 2025 leído de una reproducción (Noticias Jurídicas); no se encontró el PDF del BOCCE. Confirmar con la Consejería."
     },
     {
       "id": "melilla",

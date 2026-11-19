@@ -1,0 +1,237 @@
+{
+  "community": "Ceuta",
+  "title": "Calendario común de vacunación a lo largo de toda la vida. Ceuta, año 2025 (Decreto de 19/12/2024, BOCCE de 24/12/2024), sin cambios publicados para 2026",
+  "reviewed_on": "2026-11-19",
+  "valid_until": "2026-12-31",
+  "source_url": "https://noticias.juridicas.com/base_datos/CCAA/943321-d-sanidad-y-servicios-sociales-19-dic-2024-ceuta-nuevo-calendario-de-vacunaciones.html",
+  "page_url": "https://www.ceuta.es/",
+  "groups": [
+    {
+      "key": "2m",
+      "label": "2 meses",
+      "age_months": 2,
+      "doses": [
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus",
+          "note": "Vacuna oral."
+        }
+      ]
+    },
+    {
+      "key": "4m",
+      "label": "4 meses",
+      "age_months": 4,
+      "doses": [
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY (1.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "6m",
+      "label": "6 meses",
+      "age_months": 6,
+      "doses": [
+        {
+          "key": "vnc-3",
+          "name": "Neumococo (3.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "11m",
+      "label": "11 meses",
+      "age_months": 11,
+      "doses": [
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-4",
+          "name": "Neumococo (4.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "12m",
+      "label": "12 meses",
+      "age_months": 12,
+      "doses": [
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "menacwy-2",
+          "name": "Meningococo ACWY (2.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        }
+      ]
+    },
+    {
+      "key": "15m",
+      "label": "15 meses",
+      "age_months": 15,
+      "doses": [
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        },
+        {
+          "key": "ha-1",
+          "name": "Hepatitis A (1.ª dosis)",
+          "protects": "Hepatitis A"
+        }
+      ]
+    },
+    {
+      "key": "24m",
+      "label": "24 meses",
+      "age_months": 24,
+      "doses": [
+        {
+          "key": "ha-2",
+          "name": "Hepatitis A (2.ª dosis)",
+          "protects": "Hepatitis A"
+        }
+      ]
+    },
+    {
+      "key": "3y",
+      "label": "3 años",
+      "age_months": 36,
+      "doses": [
+        {
+          "key": "tv-2",
+          "name": "Triple vírica (2.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        },
+        {
+          "key": "vvz-2",
+          "name": "Varicela (2.ª dosis)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "6y",
+      "label": "6 años",
+      "age_months": 72,
+      "doses": [
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio",
+          "note": "Si se vacunó a los 2, 4, 6 y 18 meses, recibe dTpa sin polio."
+        }
+      ]
+    },
+    {
+      "key": "12y",
+      "label": "12 años",
+      "age_months": 144,
+      "doses": [
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano",
+          "protects": "Virus del papiloma humano"
+        },
+        {
+          "key": "vvz-rescate",
+          "name": "Varicela (si no está inmunizado)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "14y",
+      "label": "14 años",
+      "age_months": 168,
+      "doses": [
+        {
+          "key": "td-1",
+          "name": "Td (recuerdo)",
+          "protects": "Tétanos y difteria"
+        }
+      ]
+    }
+  ],
+  "seasonal": [],
+  "notes": [
+    "Calendario para niños sin factores de riesgo; los grupos de riesgo tienen pautas propias.",
+    "Ceuta no ha publicado cambios para 2026: este es el calendario de 2025, leído de la reproducción del BOCCE en Noticias Jurídicas. Pendiente de confirmar con la Consejería de Sanidad.",
+    "Gripe: vacuna anual en la infancia; las edades las fija cada campaña.",
+    "VRS: anticuerpo para los bebés en su primera temporada."
+  ],
+  "sources": [
+    {
+      "title": "Decreto de 19 de diciembre de 2024 de la Consejera de Sanidad y Servicios Sociales, nuevo calendario de vacunaciones (BOCCE de 24/12/2024; reproducción en Noticias Jurídicas)",
+      "url": "https://noticias.juridicas.com/base_datos/CCAA/943321-d-sanidad-y-servicios-sociales-19-dic-2024-ceuta-nuevo-calendario-de-vacunaciones.html",
+      "sha256": null,
+      "downloaded_on": "2026-11-19",
+      "used_for": "Anexo: tabla del calendario de 2025 (imágenes)"
+    },
+    {
+      "title": "Anexo, imagen 1 (reproducción)",
+      "url": "https://mmediasviewer.externalnaw.es/medias/ES/img/8/3/4/5/im0002308345.jpg",
+      "sha256": "47d52872ef658a5fcb77b9e6664befbd214ca9bd468687b1ec06c8f2bf435b26",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades y notas"
+    }
+  ]
+}
