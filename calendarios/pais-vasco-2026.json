@@ -1,0 +1,228 @@
+{
+  "community": "País Vasco",
+  "title": "Calendario vacunal infantil de Euskadi 2026",
+  "reviewed_on": "2026-11-19",
+  "valid_until": "2026-12-31",
+  "source_url": "https://www.euskadi.eus/contenidos/informacion/salud_infancia_vacunacion/es_def/adjuntos/2026/Calendario-vacunal-infantil-2026.pdf",
+  "page_url": "https://www.euskadi.eus/informacion/vacunacion-infantil-/web01-a3infan/es/",
+  "groups": [
+    {
+      "key": "2m",
+      "label": "2 meses",
+      "age_months": 2,
+      "doses": [
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus",
+          "note": "Vacuna oral."
+        }
+      ]
+    },
+    {
+      "key": "4m",
+      "label": "4 meses",
+      "age_months": 4,
+      "doses": [
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY (1.ª dosis)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Desde 2026 sustituye a la vacuna de meningococo C."
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "6m",
+      "label": "6 meses",
+      "age_months": 6,
+      "doses": [
+        {
+          "key": "rv-3",
+          "name": "Rotavirus (3.ª dosis)",
+          "protects": "Rotavirus"
+        }
+      ]
+    },
+    {
+      "key": "11m",
+      "label": "11 meses",
+      "age_months": 11,
+      "doses": [
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-3",
+          "name": "Neumococo (3.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "12m",
+      "label": "12 meses",
+      "age_months": 12,
+      "doses": [
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        },
+        {
+          "key": "menacwy-2",
+          "name": "Meningococo ACWY (2.ª dosis)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Desde 2026 sustituye a la vacuna de meningococo C."
+        },
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B"
+        }
+      ]
+    },
+    {
+      "key": "15m",
+      "label": "15 meses",
+      "age_months": 15,
+      "doses": [
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "4y",
+      "label": "4 años",
+      "age_months": 48,
+      "doses": [
+        {
+          "key": "srpv-1",
+          "name": "Tetravírica (2.ª dosis de triple vírica y varicela)",
+          "protects": "Sarampión, rubeola, parotiditis y varicela"
+        }
+      ]
+    },
+    {
+      "key": "6y",
+      "label": "6 años",
+      "age_months": 72,
+      "doses": [
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio"
+        }
+      ]
+    },
+    {
+      "key": "12y",
+      "label": "12 años",
+      "age_months": 144,
+      "doses": [
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano (dosis única)",
+          "protects": "Virus del papiloma humano"
+        },
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y"
+        }
+      ]
+    },
+    {
+      "key": "16y",
+      "label": "16 años",
+      "age_months": 192,
+      "doses": [
+        {
+          "key": "dtpa-16",
+          "name": "dTpa (recuerdo)",
+          "protects": "Tétanos, difteria y tosferina",
+          "note": "Desde 2026 sustituye a la Td de los 16 años."
+        }
+      ]
+    }
+  ],
+  "seasonal": [
+    {
+      "key": "gripe-2026-2027",
+      "name": "Gripe, campaña 2026-2027",
+      "protects": "Gripe",
+      "min_age_months": 6,
+      "max_age_months": 59,
+      "visible_until": "2027-01-31",
+      "note": "Una dosis cada año de 6 a 59 meses: inyectada antes de los 2 años e intranasal de 24 a 59 meses."
+    }
+  ],
+  "notes": [
+    "Calendario para niños sin factores de riesgo; los grupos de riesgo tienen pautas propias.",
+    "El calendario infantil de Euskadi no recoge la inmunización frente al VRS de los bebés: se organiza en campaña cada temporada (consultar Osakidetza).",
+    "Si faltan dosis, el centro de salud aplica el calendario acelerado oficial."
+  ],
+  "sources": [
+    {
+      "title": "Calendario vacunal infantil de Euskadi 2026",
+      "url": "https://www.euskadi.eus/contenidos/informacion/salud_infancia_vacunacion/es_def/adjuntos/2026/Calendario-vacunal-infantil-2026.pdf",
+      "sha256": "3b45f2f1c348f1db0aa3edde0da45cec286c38ea4593c9b43e4a246e8795d168",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades y notas"
+    },
+    {
+      "title": "Calendario de vacunación infantil. Euskadi 2026 (Manual de vacunaciones, anexo)",
+      "url": "https://www.osakidetza.euskadi.eus/contenidos/informacion/manual_vacunaciones/es_def/adjuntos/2026/Anexo-11-13.pdf",
+      "sha256": "751c9a132d6ca6ffe4c393aa2c4e3db3faab564fd5a5f2ea06387615c11c5ab7",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Vacuna de cada dosis: rotavirus en 3 dosis (2, 4 y 6 meses), MenACWY a los 4 y 12 meses, gripe 6-59 meses"
+    },
+    {
+      "title": "El Departamento de Salud actualiza el calendario vacunal de Euskadi 2026 (Irekia, 22/12/2025)",
+      "url": "https://www.irekia.euskadi.eus/es/news/107114-departamento-salud-actualiza-calendario-vacunal-euskadi-2026-tanto-personas-adultas-como-infantil-para-continuar-reforzando-inmunidad-poblacion-vasca",
+      "sha256": null,
+      "downloaded_on": "2026-11-19",
+      "used_for": "Novedades de 2026: MenACWY a los 4 y 12 meses y dTpa a los 16 años"
+    }
+  ]
+}

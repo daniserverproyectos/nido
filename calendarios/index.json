@@ -178,13 +178,13 @@
     {
       "id": "pais-vasco",
       "name": "País Vasco",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "pais-vasco-2026.json",
+      "page_url": "https://www.euskadi.eus/informacion/vacunacion-infantil-/web01-a3infan/es/",
+      "source_url": "https://www.euskadi.eus/contenidos/informacion/salud_infancia_vacunacion/es_def/adjuntos/2026/Calendario-vacunal-infantil-2026.pdf",
+      "source_hash": "3b45f2f1c348f1db0aa3edde0da45cec286c38ea4593c9b43e4a246e8795d168",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "la-rioja",
