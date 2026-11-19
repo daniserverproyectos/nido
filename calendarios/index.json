@@ -123,13 +123,13 @@
     {
       "id": "extremadura",
       "name": "Extremadura",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null
+      "status": "publicado",
+      "file": "extremadura-2026.json",
+      "page_url": "https://saludextremadura.ses.es/web/calendarios-vacunales-sistematicos-infantiles-vigentes-en-extremadura",
+      "source_url": "https://www.juntaex.es/documents/77055/44130806/28+enero+DOE+calendario+vacunas.pdf/51fcbacf-37dc-b599-543c-3f163048642f",
+      "source_hash": "ab00443b395dd85156092c082b10a1538a71f66b96605bf4db961ffca9d3ad98",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31"
     },
     {
       "id": "galicia",
