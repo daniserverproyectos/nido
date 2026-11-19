@@ -191,14 +191,14 @@
     {
       "id": "la-rioja",
       "name": "La Rioja",
-      "status": "pendiente",
-      "file": null,
-      "page_url": null,
-      "source_url": null,
-      "source_hash": null,
-      "reviewed_on": null,
-      "valid_until": null,
-      "note": "Solo hay instrucciones sueltas (cambios de 2024, vacunación escolar 2026-2027); el enlace al calendario completo de riojasalud.es está roto."
+      "status": "publicado",
+      "file": "la-rioja-2026.json",
+      "page_url": "https://www.riojasalud.es/salud-publica-consumo/epidemiologia/vacunaciones",
+      "source_url": "https://www.riojasalud.es/files/content/salud-publica-consumo/epidemiologia/vacunaciones/Cuadr%C3%ADptico%20Calendario%20de%20inmunizacion%20a%20lo%20largo%20de%20toda%20la%20vida%20de%20La%20Rioja%20para%20profesionales.pdf",
+      "source_hash": "065293f5169035ff34087b8aee57ee99820604af953bccb3eb94ba5a822b9be0",
+      "reviewed_on": "2026-11-19",
+      "valid_until": "2026-12-31",
+      "note": "Hecho con varios documentos oficiales; no hay calendario único de 2026. Confirmar con la Consejería."
     },
     {
       "id": "ceuta",

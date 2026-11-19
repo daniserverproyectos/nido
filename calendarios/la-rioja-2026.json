@@ -1,0 +1,240 @@
+{
+  "community": "La Rioja",
+  "title": "Calendario de inmunización a lo largo de toda la vida de La Rioja (folleto de profesionales, con los cambios de 2024 y la vacunación escolar 2026-2027)",
+  "reviewed_on": "2026-11-19",
+  "valid_until": "2026-12-31",
+  "source_url": "https://www.riojasalud.es/files/content/salud-publica-consumo/epidemiologia/vacunaciones/Cuadr%C3%ADptico%20Calendario%20de%20inmunizacion%20a%20lo%20largo%20de%20toda%20la%20vida%20de%20La%20Rioja%20para%20profesionales.pdf",
+  "page_url": "https://www.riojasalud.es/salud-publica-consumo/epidemiologia/vacunaciones",
+  "groups": [
+    {
+      "key": "2m",
+      "label": "2 meses",
+      "age_months": 2,
+      "doses": [
+        {
+          "key": "hexa-1",
+          "name": "Hexavalente (1.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-1",
+          "name": "Neumococo 15-valente (1.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-1",
+          "name": "Meningococo B (1.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "rv-1",
+          "name": "Rotavirus (1.ª dosis)",
+          "protects": "Rotavirus",
+          "born_from": "2024-05-01",
+          "note": "Vacuna oral (Rotarix, 2 dosis)."
+        }
+      ]
+    },
+    {
+      "key": "4m",
+      "label": "4 meses",
+      "age_months": 4,
+      "doses": [
+        {
+          "key": "hexa-2",
+          "name": "Hexavalente (2.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-2",
+          "name": "Neumococo 15-valente (2.ª dosis)",
+          "protects": "Neumococo"
+        },
+        {
+          "key": "menb-2",
+          "name": "Meningococo B (2.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "menacwy-1",
+          "name": "Meningococo ACWY (1.ª dosis)",
+          "protects": "Meningococos A, C, W e Y",
+          "born_from": "2024-03-01",
+          "note": "Desde julio de 2024 sustituye a la vacuna de meningococo C."
+        },
+        {
+          "key": "rv-2",
+          "name": "Rotavirus (2.ª dosis)",
+          "protects": "Rotavirus",
+          "born_from": "2024-05-01"
+        }
+      ]
+    },
+    {
+      "key": "11m",
+      "label": "11 meses",
+      "age_months": 11,
+      "doses": [
+        {
+          "key": "hexa-3",
+          "name": "Hexavalente (3.ª dosis)",
+          "protects": "Difteria, tétanos, tosferina, polio, Hib y hepatitis B"
+        },
+        {
+          "key": "vnc-3",
+          "name": "Neumococo 15-valente (3.ª dosis)",
+          "protects": "Neumococo"
+        }
+      ]
+    },
+    {
+      "key": "12m",
+      "label": "12 meses",
+      "age_months": 12,
+      "doses": [
+        {
+          "key": "menb-3",
+          "name": "Meningococo B (3.ª dosis)",
+          "protects": "Meningococo B"
+        },
+        {
+          "key": "menacwy-2",
+          "name": "Meningococo ACWY (2.ª dosis)",
+          "protects": "Meningococos A, C, W e Y"
+        },
+        {
+          "key": "tv-1",
+          "name": "Triple vírica (1.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        }
+      ]
+    },
+    {
+      "key": "15m",
+      "label": "15 meses",
+      "age_months": 15,
+      "doses": [
+        {
+          "key": "vvz-1",
+          "name": "Varicela (1.ª dosis)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "3y",
+      "label": "3 años",
+      "age_months": 36,
+      "doses": [
+        {
+          "key": "tv-2",
+          "name": "Triple vírica (2.ª dosis)",
+          "protects": "Sarampión, rubeola y parotiditis"
+        },
+        {
+          "key": "vvz-2",
+          "name": "Varicela (2.ª dosis)",
+          "protects": "Varicela"
+        }
+      ]
+    },
+    {
+      "key": "6y",
+      "label": "6-7 años (1.º de Primaria)",
+      "age_months": 72,
+      "doses": [
+        {
+          "key": "dtpa-vpi-1",
+          "name": "DTPa-VPI (recuerdo)",
+          "protects": "Difteria, tétanos, tosferina y polio",
+          "note": "En el colegio, en 1.º de Primaria."
+        }
+      ]
+    },
+    {
+      "key": "11y",
+      "label": "11-12 años (6.º de Primaria)",
+      "age_months": 132,
+      "doses": [
+        {
+          "key": "menacwy-ado",
+          "name": "Meningococo ACWY (adolescente)",
+          "protects": "Meningococos A, C, W e Y",
+          "note": "Si no ha recibido MenACWY desde los 10 años. En el colegio."
+        },
+        {
+          "key": "vph-1",
+          "name": "Virus del papiloma humano",
+          "protects": "Virus del papiloma humano",
+          "note": "Niñas y niños, en el colegio. El número de dosis lo indica el centro."
+        },
+        {
+          "key": "vvz-rescate",
+          "name": "Varicela (si no está inmunizado)",
+          "protects": "Varicela",
+          "note": "Una dosis si solo tiene una; dos, separadas 8 semanas, si no la ha pasado ni está vacunado."
+        }
+      ]
+    },
+    {
+      "key": "13y",
+      "label": "13-14 años (2.º de ESO)",
+      "age_months": 156,
+      "doses": [
+        {
+          "key": "td-1",
+          "name": "Td (recuerdo)",
+          "protects": "Tétanos y difteria",
+          "note": "En el colegio, en 2.º de ESO."
+        }
+      ]
+    }
+  ],
+  "seasonal": [
+    {
+      "key": "gripe-2026-2027",
+      "name": "Gripe, campaña 2026-2027",
+      "protects": "Gripe",
+      "min_age_months": 6,
+      "max_age_months": 59,
+      "visible_until": "2027-01-31",
+      "note": "Una dosis cada año de 6 a 59 meses. La campaña de cada año puede ampliar las edades (consultar Rioja Salud)."
+    }
+  ],
+  "notes": [
+    "Calendario para niños sin factores de riesgo; los grupos de riesgo tienen pautas propias.",
+    "La Rioja no publica un calendario infantil único de 2026: este se ha hecho con el folleto de profesionales, la actualización de junio de 2024 y el protocolo de vacunación escolar 2026-2027. Pendiente de confirmar con la Consejería.",
+    "VRS: anticuerpo frente al VRS en la temporada para los menores de 6 meses.",
+    "Si faltan dosis, el centro de salud aplica las pautas correctoras oficiales."
+  ],
+  "sources": [
+    {
+      "title": "Calendario de inmunización a lo largo de toda la vida de La Rioja, cuadríptico para profesionales",
+      "url": "https://www.riojasalud.es/files/content/salud-publica-consumo/epidemiologia/vacunaciones/Cuadr%C3%ADptico%20Calendario%20de%20inmunizacion%20a%20lo%20largo%20de%20toda%20la%20vida%20de%20La%20Rioja%20para%20profesionales.pdf",
+      "sha256": "065293f5169035ff34087b8aee57ee99820604af953bccb3eb94ba5a822b9be0",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Tabla de edades: hexavalente, neumococo, MenB, MenACWY, triple vírica y varicela; gripe 6-59 meses"
+    },
+    {
+      "title": "Actualización del calendario de inmunización de La Rioja (junio de 2024)",
+      "url": "https://www.riojasalud.es/files/content/salud-publica-consumo/epidemiologia/vacunaciones/Instrucci%C3%B3n%20Calendario%20de%20inmunizaci%C3%B3n%20a%20lo%20largo%20de%20toda%20la%20vida%20de%20La%20Rioja.pdf",
+      "sha256": "c87c7d0fda7df9491683dcbcffe7a3253ee3f3ad246578b7348ad6842309c201",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Rotavirus a los 2 y 4 meses (nacidos desde 1/5/2024) y MenACWY a los 4 meses (nacidos desde 1/3/2024); VRS"
+    },
+    {
+      "title": "Anexo de la actualización del calendario (junio de 2024)",
+      "url": "https://www.riojasalud.es/files/content/salud-publica-consumo/epidemiologia/vacunaciones/Anexo%20Calendario%20de%20inmunizaci%C3%B3n%20a%20lo%20largo%20de%20toda%20la%20vida%20de%20La%20Rioja.pdf",
+      "sha256": "b218e222ff275dce64971b5545406c9f7f0566f208eaaecd8e48b31d569d386f",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Vacuna de rotavirus (Rotarix, 2 dosis)"
+    },
+    {
+      "title": "Protocolo de vacunación escolar, curso 2026-2027",
+      "url": "https://www.riojasalud.es/files/content/salud-publica-consumo/epidemiologia/vacunaciones/Protocolo%20Vacunaci%C3%B3n%20Escolar%202026-2027.pdf",
+      "sha256": "092864a779bc5dec7d8c76445d4cd06f640ce3bf80b777456222ac829dcc81da",
+      "downloaded_on": "2026-11-19",
+      "used_for": "Vacunas del colegio: DTPa-VPI en 1.º de Primaria, MenACWY y VPH en 6.º, Td en 2.º de ESO"
+    }
+  ]
+}
